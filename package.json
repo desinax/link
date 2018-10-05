@@ -1,6 +1,6 @@
 {
   "name": "@desinax/link",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Desinax LESS/SASS module for link and navigation reusable style elements.",
   "main": "null",
   "scripts": {
